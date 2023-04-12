@@ -1,0 +1,40 @@
+.logo {
+  width: 100px;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
+.nav2 {
+  position: absolute;
+  top: 9px;
+  right: 20px;
+}
+
+.nav-link {
+  color: black;
+  margin-left: 3px;
+  margin-right: 3px;
+  text-transform: uppercase;
+  font-weight: 800;
+  font-size: 13px;
+  letter-spacing: 1px;
+}
+
+@media screen and (max-width: 1199px) {
+  .navbar {
+    background: white;
+    .logo {
+      width: 100px;
+      position: absolute;
+      top: 20px;
+      left: auto;
+      right: 20px;
+    }
+    .nav2 {
+      position: relative;
+      right: auto;
+      top: 0;
+    }
+  }
+}

@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "Gotham Medium";
+  src: url("Gotham-Medium.woff2") format("woff2"),
+    url("Gotham-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gotham Book";
+  src: url("Gotham-Book.woff2") format("woff2"),
+    url("Gotham-Book.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Gotham Medium";
+}
+
+p,
+span,
+li,
+a {
+  font-family: "Gotham Book";
+}
+
+@import "./Navigation";
+@import "./Homepage";
