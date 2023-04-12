@@ -119,14 +119,15 @@ const Homepage = () => {
                           initial="hidden"
                           animate={control2}
                         >
-                          Online Order for <a href="/#">Touchless Delivery</a>
+                          Online Order for{" "}
+                          <a href="/tesla-page/#">Touchless Delivery</a>
                         </motion.p>
                       </div>
                       <div className="lower text-center">
                         <div>
                           <motion.a
                             className="btn1"
-                            href="/#"
+                            href="/tesla-page/#"
                             ref={ref1}
                             variants={animationVariant}
                             initial="hidden"
@@ -136,7 +137,7 @@ const Homepage = () => {
                           </motion.a>
                           <motion.a
                             className="btn2"
-                            href="/#"
+                            href="/tesla-page/#"
                             ref={ref1}
                             variants={animationVariant}
                             initial="hidden"
@@ -148,7 +149,7 @@ const Homepage = () => {
                         <div>
                           <motion.a
                             className="arrow"
-                            href="/#"
+                            href="/tesla-page/#"
                             ref={ref1}
                             variants={animationVariant}
                             initial="hidden"
@@ -190,14 +191,15 @@ const Homepage = () => {
                           initial="hidden"
                           animate={control7}
                         >
-                          Online Order for <a href="/#">Touchless Delivery</a>
+                          Online Order for{" "}
+                          <a href="/tesla-page/#">Touchless Delivery</a>
                         </motion.p>
                       </div>
                       <div className="lower text-center">
                         <div>
                           <motion.a
                             className="btn1"
-                            href="/#"
+                            href="/tesla-page/#"
                             ref={ref2}
                             variants={animationVariant}
                             initial="hidden"
@@ -207,7 +209,7 @@ const Homepage = () => {
                           </motion.a>
                           <motion.a
                             className="btn2"
-                            href="/#"
+                            href="/tesla-page/#"
                             ref={ref2}
                             variants={animationVariant}
                             initial="hidden"
@@ -219,7 +221,7 @@ const Homepage = () => {
                         <div>
                           <motion.a
                             className="arrow"
-                            href="/#"
+                            href="/tesla-page/#"
                             ref={ref2}
                             variants={animationVariant}
                             initial="hidden"
@@ -261,14 +263,15 @@ const Homepage = () => {
                           initial="hidden"
                           animate={control12}
                         >
-                          Online Order for <a href="/#">Touchless Delivery</a>
+                          Online Order for{" "}
+                          <a href="/tesla-page/#">Touchless Delivery</a>
                         </motion.p>
                       </div>
                       <div className="lower text-center">
                         <div>
                           <motion.a
                             className="btn1"
-                            href="/#"
+                            href="/tesla-page/#"
                             ref={ref3}
                             variants={animationVariant}
                             initial="hidden"
@@ -278,7 +281,7 @@ const Homepage = () => {
                           </motion.a>
                           <motion.a
                             className="btn2"
-                            href="/#"
+                            href="/tesla-page/#"
                             ref={ref3}
                             variants={animationVariant}
                             initial="hidden"
@@ -290,7 +293,7 @@ const Homepage = () => {
                         <div>
                           <motion.a
                             className="arrow"
-                            href="/#"
+                            href="/tesla-page/#"
                             ref={ref3}
                             variants={animationVariant}
                             initial="hidden"

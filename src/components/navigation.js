@@ -20,32 +20,32 @@ const Nav = () => {
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav mx-auto">
             <li className="nav-item">
-              <a className="nav-link" href="/#">
+              <a className="nav-link" href="/tesla-page/#">
                 Model S
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="/#">
+              <a className="nav-link" href="/tesla-page/#">
                 Model 3
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="/#">
+              <a className="nav-link" href="/tesla-page/#">
                 Model X
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="/#">
+              <a className="nav-link" href="/tesla-page/#">
                 Model Y
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="/#">
+              <a className="nav-link" href="/tesla-page/#">
                 Solar Roof
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="/#">
+              <a className="nav-link" href="/tesla-page/#">
                 Solar Panels
               </a>
             </li>
@@ -53,12 +53,12 @@ const Nav = () => {
 
           <ul className="navbar-nav nav2">
             <li className="nav-item">
-              <a className="nav-link" href="/#">
+              <a className="nav-link" href="/tesla-page/#">
                 Shop
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="/#">
+              <a className="nav-link" href="/tesla-page/#">
                 Tesla Account
               </a>
             </li>
